@@ -1,6 +1,5 @@
 # recipe-card-master
 
-### ReactJs Kodluyoruz&Patika Homework 
 
 #### Project Setup
 
